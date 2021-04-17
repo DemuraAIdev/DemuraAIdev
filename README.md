@@ -4,7 +4,6 @@
 ### The Creator Of DRM_FRAMWORK
 
 <!-- Markdown -->
-![Jokes Card](https://readme-jokes.vercel.app/api)
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DemuraAIdev&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
 
