@@ -15,8 +15,8 @@
 <!-- Markdown -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DemuraAIdev&repo=DrmPR)](https://github.com/DemuraAIdev/DrmPR)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DemuraAIdev&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemuraAIdev&layout=compact" alt="abhisheknaiidu" />
+<img src="https://github-readme-stats.vercel.app/api?username=DemuraAIdev&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemuraAIdev&layout=compact" alt="abhisheknaiidu" />
   
 
 
