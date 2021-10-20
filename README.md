@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=DemuraAIdev&color=green)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/DemuraAIdev/drm_framwork?label=DRM)](https://github.com/DemuraAIdev/drm_framwork/releases/)
-# Hi
+# Hi im Demura AI nice to meet you :)
 ### Hmm i still here ...
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
