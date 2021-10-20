@@ -13,7 +13,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"></code></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 <!-- Markdown -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DemuraAI&repo=DrmPR)](https://github.com/DemuraAIdev/DrmPR)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DemuraAIdev&repo=DrmPR)](https://github.com/DemuraAIdev/DrmPR)
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DemuraAIdev&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemuraAIdev&layout=compact" alt="abhisheknaiidu" />
