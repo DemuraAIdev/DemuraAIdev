@@ -14,8 +14,9 @@
 <!-- Markdown -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DemuraAIdev&repo=DotBot)](https://github.com/DemuraAIdev/DotBot)
 
-<img src="https://github-readme-stats.vercel.app/api?username=DemuraAIdev&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemuraAIdev&layout=compact" alt="abhisheknaiidu" />
+
+<img class="center" src="https://github-readme-stats.vercel.app/api?username=DemuraAIdev&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<img class="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemuraAIdev&layout=compact" alt="abhisheknaiidu" />
   
 
 
