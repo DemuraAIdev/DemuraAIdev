@@ -2,12 +2,15 @@
 # Hi im Demura AI nice to meet you :)
 ### Hmm i still here ...
 ## Pls Donate me in :
-### https://saweria.co/DemuraAI
-### https://www.patreon.com/drmdev
-### https://trakteer.id/cyber%20ai
-
+```
+ https://saweria.co/DemuraAI
+ https://www.patreon.com/drmdev
+ https://trakteer.id/cyber%20ai
+```
 ## My Art :
-### https://www.deviantart.com/demuraai
+```
+ https://www.deviantart.com/demuraai
+```
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
