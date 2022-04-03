@@ -12,6 +12,10 @@ class DemuraAI {
       this.config.age = undefined
       this.config.lang = ["javascript", "html", "css", "python"]
    }
+   donatelink() {
+      const link = ["https://saweria.co/DemuraAI","https://www.patreon.com/drmdev","https://trakteer.id/cyber%20ai"]
+      return link;
+   }
    
 }
 
