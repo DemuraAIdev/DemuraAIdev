@@ -6,9 +6,10 @@
 ```js
 class DemuraAI {
    constructure(config) {
-      config.name = "DemuraAI"
-      config.web = "https://vahryiskandar.my.id"
-      config.age = undefined
+      this.config = config
+      this.config.name = "DemuraAI"
+      this.config.web = "https://vahryiskandar.my.id"
+      this.config.age = undefined
    }
 }
 module.exports = DemuraAI
