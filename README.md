@@ -3,6 +3,17 @@
 - Javascript Programmer
 - NFT Creator
 - Admin Fanspage
+```js
+class DemuraAI {
+   constructure(config) {
+      config.name = "DemuraAI"
+      config.web = "https://vahryiskandar.my.id"
+      config.age = undenfinied
+   }
+}
+module.exports = DemuraAI
+
+```
 
 ## Pls Donate me in :
 ```
