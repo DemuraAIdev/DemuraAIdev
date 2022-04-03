@@ -8,7 +8,7 @@ class DemuraAI {
    constructure(config) {
       config.name = "DemuraAI"
       config.web = "https://vahryiskandar.my.id"
-      config.age = undenfinied
+      config.age = undefined
    }
 }
 module.exports = DemuraAI
