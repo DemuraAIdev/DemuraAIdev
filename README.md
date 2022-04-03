@@ -19,7 +19,7 @@ class DemuraAI {
    }
    init() {
       const name = this.config.name[Math.floor(Math.random() * this.config.name.length)]
-      console.log(`Hello my name is ${self.config.name}`)
+      console.log(`Hello my name is ${name}`)
    }
    
 }
