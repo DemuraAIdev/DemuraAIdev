@@ -25,8 +25,7 @@
 <!-- Markdown -->
 <img class="center" src="https://github-readme-stats.vercel.app/api?username=DemuraAIdev&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 <img class="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemuraAIdev&layout=compact&theme=gotham" alt="abhisheknaiidu" />
-[![trophy](https://github-profile-trophy.vercel.app/?username=DemuraAIdev&theme=onedark)](https://github.com/DemuraAIdev)
-
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=DemuraAIdev)](https://github.com/gazf/github-readme-twitter)
   
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
