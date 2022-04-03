@@ -26,7 +26,6 @@
 <p align="center"> 
   <img class="center" src="https://github-readme-stats.vercel.app/api?username=DemuraAIdev&show_icons=true&theme=gotham" alt="stats" />
   <img class="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemuraAIdev&layout=compact&theme=gotham" alt="toplang" />
-  <img class="center" src="https://github-readme-twitter.gazf.vercel.app/api?id=Abdulvaiz2" alt="twt" />
 </p>
   
 <p align="center">
