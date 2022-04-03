@@ -5,14 +5,18 @@
 - Admin Fanspage
 ```js
 class DemuraAI {
-   constructure(config) {
-      this.config = config
+   constructure() {
+      this.config = {}
       this.config.name = "DemuraAI"
       this.config.web = "https://vahryiskandar.my.id"
       this.config.age = undefined
+      this.config.lang = ["javascript", "html", "css", "python"]
    }
+   
 }
-module.exports = DemuraAI
+
+const self = new DemuraAI
+console.log(`Hello my name is ${self.config.name}`)
 
 ```
 
