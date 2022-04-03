@@ -1,7 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=DemuraAIdev&color=green)
 # Hi im Demura AI nice to meet you :)
-
-
+- Javascript Programmer
+- NFT Creator
+- Admin Fanspage
 
 ## Pls Donate me in :
 ```
