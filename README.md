@@ -6,11 +6,12 @@
 ```js
 class DemuraAI {
    constructure() {
-      this.config = {}
-      this.config.name = "DemuraAI"
-      this.config.web = "https://vahryiskandar.my.id"
-      this.config.age = undefined
-      this.config.lang = ["javascript", "html", "css", "python"]
+      this.config = {
+         name: "DemuraAI",
+         web: "https://vahryiskandar.my.id",
+         age: undefined,
+         lang: ["javascript", "html", "css", "python"]
+      }
    }
    donatelink() {
       const link = ["https://saweria.co/DemuraAI","https://www.patreon.com/drmdev","https://trakteer.id/cyber%20ai"]
