@@ -7,7 +7,7 @@
 class DemuraAI {
    constructure() {
       this.config = {
-         name: "DemuraAI",
+         name: ["DemuraAI", "DemuraChan", "NotDemuraAI", "DemuraNeko", "Demura"],
          web: "https://vahryiskandar.my.id",
          age: undefined,
          lang: ["javascript", "html", "css", "python"]
@@ -18,6 +18,7 @@ class DemuraAI {
       return link;
    }
    init() {
+      const name = this.config.name[Math.floor(Math.random() * this.config.name.length)]
       console.log(`Hello my name is ${self.config.name}`)
    }
    
