@@ -16,11 +16,14 @@ class DemuraAI {
       const link = ["https://saweria.co/DemuraAI","https://www.patreon.com/drmdev","https://trakteer.id/cyber%20ai"]
       return link;
    }
+   init() {
+      console.log(`Hello my name is ${self.config.name}`)
+   }
    
 }
 
 const self = new DemuraAI
-console.log(`Hello my name is ${self.config.name}`)
+self.init()
 
 ```
 
