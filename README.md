@@ -26,6 +26,10 @@
 <img class="center" src="https://github-readme-stats.vercel.app/api?username=DemuraAIdev&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 <img class="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemuraAIdev&layout=compact" alt="abhisheknaiidu" />
   
+```
+![Visitor Count](https://profile-counter.glitch.me/DemuraAIdev/count.svg)
+```
+  
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
