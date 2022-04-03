@@ -23,7 +23,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"></code></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 <!-- Markdown -->
-**Stats ⭐**
+<h3 align="center">Stats ⭐ </h3>
 <p align="center"> 
   <img class="center" src="https://github-readme-stats.vercel.app/api?username=DemuraAIdev&show_icons=true&theme=gotham" alt="stats" />
   <img class="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemuraAIdev&layout=compact&theme=gotham" alt="toplang" />
