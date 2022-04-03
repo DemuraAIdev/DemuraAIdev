@@ -25,7 +25,7 @@
 <!-- Markdown -->
 <img class="center" src="https://github-readme-stats.vercel.app/api?username=DemuraAIdev&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 <img class="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemuraAIdev&layout=compact&theme=gotham" alt="abhisheknaiidu" />
-  
+[![trophy](https://github-profile-trophy.vercel.app/?username=DemuraAIdev&theme=onedark)](https://github.com/DemuraAIdev)
 
   
 <p align="center">
