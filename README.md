@@ -4,10 +4,10 @@
 - NFT Creator
 - Admin Fanspage
 ```js
-class DemuraAI {
+class CyberAI {
    constructure() {
       this.config = {
-         name: ["DemuraAI", "DemuraChan", "NotDemuraAI", "DemuraNeko", "Demura"],
+         name: ["Vahry", "CyberAI"],
          web: "https://vahryiskandar.my.id",
          age: undefined,
          lang: ["javascript", "html", "css", "python"]
