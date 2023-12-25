@@ -1,8 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=DemuraAIdev&color=green)
 # Hi im Vahry nice to meet you :)
 - Javascript Programmer
-- NFT Creator
-- Admin Fanspage
+- Profesional Backend
 ```js
 class CyberAI {
    constructure() {
@@ -34,7 +33,6 @@ self.init()
  https://saweria.co/DemuraAI
  https://www.patreon.com/drmdev
  https://trakteer.id/cyber%20ai
- ETH : 0xC70e0be953B83fb320D06f6E7eA3A19d31a26090
 ```
 
 **Languages and Tools:**  
