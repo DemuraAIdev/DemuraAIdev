@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=DemuraAIdev&color=green)
 # Hi im Vahry nice to meet you :)
 - Javascript Programmer
-- Profesional Backend
+- Professional Backend
 ```js
 class CyberAI {
    constructure() {
