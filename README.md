@@ -1,32 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=DemuraAIdev&color=green)
 # Hi im Vahry nice to meet you :)
-- Javascript Programmer
-- Professional Backend
-```js
-class CyberAI {
-   constructure() {
-      this.config = {
-         name: ["Vahry", "CyberAI"],
-         web: "https://vahryiskandar.my.id",
-         age: undefined,
-         lang: ["javascript", "html", "css", "python"]
-      }
-   }
-   donatelink() {
-      const link = ["https://saweria.co/DemuraAI","https://www.patreon.com/drmdev","https://trakteer.id/cyber%20ai"]
-      return link;
-   }
-   init() {
-      const name = this.config.name[Math.floor(Math.random() * this.config.name.length)]
-      console.log(`Hello my name is ${name}`)
-   }
-   
-}
-
-const self = new DemuraAI
-self.init()
-
-```
 
 ## Pls Donate me in :
 ```
