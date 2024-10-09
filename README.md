@@ -2,6 +2,8 @@
 # Hi im Vahry nice to meet you :)
 I am a website developer, bot, graphic designer, and nft artist. I learned to make a website from 2019 I learned to use javascript in 2019, at that time I only used it to create a discord bot using libbrary discord.js. I'm currently learning to make nextjs.
 
+🪐Internship at CV.Aranus Technology
+
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
