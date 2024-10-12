@@ -8,7 +8,7 @@ I am a website developer, bot, graphic designer, and nft artist. I learned to ma
 <img src="https://skillicons.dev/icons?i=git,javascript,typescript,vscode,linux,aws,astro,react,php,laravel,flutter,arduino,tailwind,docker,postgres,mysql,kubernetes,sqlite,python" />
 <!-- Markdown -->
 <p> 
-  <img class="center" src="https://github-readme-stats.vercel.app/api?username=DemuraAIdev&show_icons=true&theme=gotham" alt="stats" />
+  <img class="center" src="https://github-readme-stats.vercel.app/api?username=DemuraAIdev&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&count_private=true&theme=gotham" alt="stats" />
 <!--   <img class="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemuraAIdev&layout=compact&theme=gotham" alt="toplang" /> -->
 </p>
 
