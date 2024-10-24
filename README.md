@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=DemuraAIdev&color=green)
 # Hi im Vahry nice to meet you :)
-I am a website developer, bot, graphic designer, and nft artist. I learned to make a website from 2019 I learned to use javascript in 2019, at that time I only used it to create a discord bot using libbrary discord.js. I'm currently learning to make nextjs.
+I am a website developer, bot, graphic designer, and cloud engineer. I learned to make a website from 2019 I learned to use javascript in 2019, at that time I only used it to create a discord bot using libbrary discord.js. I'm currently learning to make nextjs.
 
 🪐Internship at CV.Aranus Technology
 
