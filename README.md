@@ -5,7 +5,7 @@ I am a website developer, bot, graphic designer, and cloud engineer. I learned t
 🪐Internship at CV.Aranus Technology
 
 **Languages and Tools:**  
-<img src="https://skillicons.dev/icons?i=git,javascript,typescript,vscode,linux,aws,astro,react,php,laravel,flutter,arduino,tailwind,docker,postgres,mysql,kubernetes,sqlite,python" />
+<img src="https://skillicons.dev/icons?i=git,javascript,typescript,go,vscode,linux,aws,rust,astro,react,php,laravel,flutter,arduino,tailwind,docker,postgres,mysql,kubernetes,sqlite,python" />
 <!-- Markdown -->
 <p> 
   <img class="center" src="https://github-readme-stats.vercel.app/api?username=DemuraAIdev&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&count_private=true&theme=gotham" alt="stats" />
