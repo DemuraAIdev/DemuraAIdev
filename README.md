@@ -2,8 +2,6 @@
 # Hi im Vahry nice to meet you :)
 I am a website developer, bot, graphic designer, and cloud engineer. I learned to make a website from 2019 I learned to use javascript in 2019, at that time I only used it to create a discord bot using libbrary discord.js. I'm currently learning to make nextjs.
 
-🪐Part Time at CV.Aranus Technology
-
 **Languages and Tools:**  
 <img src="https://skillicons.dev/icons?i=git,javascript,typescript,go,vscode,linux,aws,rust,astro,react,php,laravel,flutter,arduino,tailwind,docker,postgres,mysql,kubernetes,sqlite,python" />
 <!-- Markdown -->
